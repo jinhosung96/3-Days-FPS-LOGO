@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fa405da-8455-4cdd-829f-bea1a2c99cd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Beam/HealBeamStatic.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Camera/CameraSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Cursor/CursorSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/DarkUI/PanelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/HealthPoint/HPController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Pause/PauseObject.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Pause/PauseSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/HP/DamageEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/HP/PlayerHPText.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Jump/GravitySystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Jump/JumpController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Move/MoveController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/PlayerSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Projectile/AutoDestroyer.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Spawn/SpawnController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/UI/InGameUISystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Animator/AnimatorController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Camera/CameraArmController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Collision/OnCollisionEnterDestroy.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Crouch/CrouchController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Attack/MeleeAttackState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Attack/RangeAttackState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Heal/HealState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/HP/BossHPBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/HP/EnemyHPController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Move/FollowState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Move/TraceState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Roar/RoarController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Roar/RoarState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/Spawn/SpawnState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Enemy/BossSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Folder/FolderSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Frame/FrameSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/GameFlow/ApplicationQuitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/GameFlow/GameFlowSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Aim/AimController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/HP/PlayerHPController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Move/CrouchState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Move/RunState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Move/WalkState.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Player/Shoot/ShootController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/Scene/FadeInOut.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/View/ViewController.cs" />
+      <option value="$PROJECT_DIR$/Assets/00.JHS/01.Script/StateMachine/StateMachine.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1qyPBF4Boqju33nn44e67Gp02ta" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../게임 알고리즘 과제/기말고사\LOGO.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\user\Documents\게임 알고리즘 과제\기말고사" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa405da-8455-4cdd-829f-bea1a2c99cd9" name="Default Changelist" comment="" />
+      <created>1618048722750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618048722750</updated>
+      <workItem from="1618048731950" duration="32000" />
+      <workItem from="1618050591613" duration="2056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
